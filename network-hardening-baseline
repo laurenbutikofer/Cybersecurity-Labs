@@ -1,0 +1,31 @@
+# Network Security Hardening at NextGen Energy Solutions
+
+##  Overview
+I contributed to a network security hardening initiative aimed at reducing attack surface across NextGen Energy Solutions’ internal and external-facing systems.
+
+##  Objectives
+- Review existing firewall and access control configurations.  
+- Identify unnecessary open ports and risky services.  
+- Apply security best practices aligned with CIS benchmarks.  
+
+##  Hardening Steps
+1. Conducted baseline scan of network ports and services.  
+2. Identified misconfigured firewall rules and excessive access permissions.  
+3. Closed unnecessary ports and enforced principle of least privilege.  
+4. Configured monitoring alerts for abnormal inbound/outbound traffic.  
+
+##  Outcome
+- Reduced number of exposed services accessible externally.  
+- Strengthened segmentation between critical infrastructure and user networks.  
+- Provided documentation for ongoing configuration reviews.  
+
+##  Tools Used
+- Nmap (port scanning)  
+- Wireshark (traffic analysis)  
+- Firewall management console  
+
+##  Key Skills Demonstrated
+- Network security auditing.  
+- Applying CIS controls and best practices.  
+- Firewall rule optimization.  
+- Monitoring and alerting configuration.
