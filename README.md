@@ -18,3 +18,13 @@ Goals
 - Document security workflows to demonstrate technical communication.  
 - Build a public portfolio to show readiness for entry-level cybersecurity roles.  
 
+
+# Real-World Experience – NextGen Energy Solutions
+I documented several real-world cybersecurity projects I assisted with at NextGen Energy Solutions, focused on protecting energy-sector infrastructure.  
+
+Case studies include:  
+- [Incident Response: Phishing Attempt](./nextgen-security-projects/incident-response-phishing.md)  
+- [Vulnerability Scanning & Remediation](./nextgen-security-projects/vulnerability-scanning.md)  
+- [Network Security Hardening](./nextgen-security-projects/network-hardening.md)  
+
+These projects demonstrate applied cybersecurity skills in incident response, vulnerability management, and network security hardening.
