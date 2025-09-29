@@ -1,26 +1,13 @@
-# Cybersecurity-Labs
-This repository contains a collection of hands-on cybersecurity labs I’ve completed to practice and demonstrate practical skills in defensive security, penetration testing, and cloud security. Each lab is documented step-by-step with objectives, tools used, methods, and findings.
+# NextGen Security Projects
 
-Repository Structure
-- **/SOC-Labs/** → Security Operations Center labs (log analysis, threat hunting, SIEM work).  
-- **/Pentesting-Labs/** → Offensive security labs (vulnerability discovery, exploitation, reporting).  
-- **/Cloud-Security-Labs/** → Hands-on cloud security projects in AWS and Azure.  
-- **/Forensics-Labs/** → Incident response and digital forensics analysis.  
+This repository showcases cybersecurity projects completed for NextGen Energy Solutions and other simulated client environments. The focus is on applied security consulting — from risk assessments and vulnerability management to incident response and reporting.  
 
-Tools & Technologies
-Wireshark • Splunk • ELK Stack • Suricata  
-Kali Linux • Metasploit • Burp Suite  
-Autopsy • Volatility • CyberChef  
-AWS • Azure  
+---
 
-Goals
-- Apply concepts from CompTIA Security+ and beyond in real-world style labs.  
-- Document security workflows to demonstrate technical communication.  
-- Build a public portfolio to show readiness for entry-level cybersecurity roles.  
-
-
-# Real-World Experience
-While assisting NextGen Energy Solutions with cybersecurity initiatives, I documented several case studies that highlight my practical experience in:
-- Incident response (phishing, malware triage)
-- Vulnerability scanning & remediation
-- Network security hardening
+## 🔹 Purpose
+To demonstrate practical cybersecurity skills aligned with:
+- Risk assessment and remediation planning  
+- Vulnerability scanning and management  
+- Incident detection, response, and forensics  
+- Security hardening and best practices  
+- Executive and technical reporting  
